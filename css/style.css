@@ -26,6 +26,10 @@ body {
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
+x:hover {
+  zoom: 130;
+}
+
 
 h1, h2, h3, h4, h5, h6 {
   margin: 0;
@@ -64,6 +68,10 @@ a:hover, a:focus {
   color: #b8a07e;
   text-decoration: underline;
 }
+
+
+
+
 
 nav ul li a {
   padding: 2px 0 0 0;
